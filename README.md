@@ -9,3 +9,5 @@ This article discusses how a team of volunteer software engineers have created a
 
 ## What I found interesting
 I think that the partnership between the volunteer team (COVIDWA.COM) and Washington's Department of Health is a great example of how software engineering aims to tackle a present issue.  Given that the creator of the initiative struggled to find a vaccination appointment for his family members, he recognized the larger need for transparency and accessibility of information.  The article mentions that most of the volunteer software engineers previously worked at large brand name companies as well.  It is somewhat surprising that COVIDWA.COM has been able to launch almost immediately after the vaccination information disconnect emerged.
+
+### Comment(Evelyn Zhang): This article reminds me of what I read else where. I read that NY the vaccine website created by officials are so inefficient and unscalable that a software engineer had to come up with one on his free time and it beats the official website. So it's interesting how bad softwares can be when not done well.
